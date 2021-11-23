@@ -40,9 +40,9 @@ def add_cookies():
 
 
 if __name__ == '__main__':
-    #ADD COOKIE
+    #ADD COOKIES
     # add_cookies()
-    #SIGN IN WITH SAVE COOKIES
+    #SIGN IN AND SAVE COOKIES
     # sign_in_get_cookies()
     driver.get('https://web.moneylover.me/')
     # time.sleep(1)
