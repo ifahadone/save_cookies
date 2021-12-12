@@ -1,5 +1,4 @@
-# money-lover-selenium
-Python selenium automation on moneylover.me
+# store-cookies
 
 - Store Cookies
 - Add Cookies
